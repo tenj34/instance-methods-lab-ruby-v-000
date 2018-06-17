@@ -1,4 +1,4 @@
 class person
-bark = "Wolf"
-
+  def bark
+    puts "Woof!"
 end
